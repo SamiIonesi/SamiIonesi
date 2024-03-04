@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **UV disinfection robot**
 
-- 🌱 I’m currently learning **ROS 2**
+- 🌱 I’m currently learning **ROS 2** and **C#**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, OOP, HDL**
 
 - 📫 How to reach me **ionesi.samuel@gmail.com**
 
