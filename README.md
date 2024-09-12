@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiionesi&label=Profile%20views&color=0e75b6&style=flat" alt="samiionesi" /> </p>
 
-- 🔭 I’m currently working on **UV disinfection robot**
+- 🔭 I’m currently working on **a Data Sructures & Algorithms repository**
 
-- 🌱 I’m currently learning **ROS 2** and **C#**
+- 🌱 I’m currently learning **Data Sructures & Algorithms** and **C++**
 
-- 💬 Ask me about **Python, OOP, HDL**
+- 💬 Ask me about **C++, Python, OOP, SystemVerilog/Verilog**
 
 - 📫 How to reach me **ionesi.samuel@gmail.com**
 
